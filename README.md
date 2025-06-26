@@ -47,20 +47,21 @@ A lightweight and interactive Streamlit dashboard for tracking USD exchange rate
 
 ## 📁 Folder Structure
 
----
-
+```
 currency_dashboard/
-├── app.py
+├── data/
+│   ├── dummy_currency_rates.csv
 ├── src/
 │   ├── fetch_data.py
 │   └── forecast.py
-├── data/
-│   └── currency_rates.csv
+├── assets/
+│   └── screenshot.png
+├── app.py
+├── .gitignore
 ├── requirements.txt
-├── README.md
-└── LICENSE
-
----
+├── LICENSE
+└── README.md
+```
 
 ---
 
