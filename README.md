@@ -1,8 +1,11 @@
+# 📊 Currency Forecast Dashboard
+
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/streamlit-%E2%9C%85-brightgreen)
 ![MIT License](https://img.shields.io/badge/license-MIT-yellow)
-
-# 📊 Currency Forecast Dashboard
+![GitHub stars](https://img.shields.io/github/stars/VoidK41/currency-forecast-dashboard?style=social)
+![GitHub forks](https://img.shields.io/github/forks/VoidK41/currency-forecast-dashboard?style=social)
+![Last commit](https://img.shields.io/github/last-commit/VoidK41/currency-forecast-dashboard)
 
 A lightweight and interactive Streamlit dashboard for tracking USD exchange rates and forecasting currency trends.
 
